@@ -1,0 +1,15 @@
+# Downloaded datasets
+/data/
+
+# Model weights and training checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local Python environments
+.venv/
+venv/
